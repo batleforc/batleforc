@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Portfolio maxleriche.tech](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://maxleriche.tech)
+
+
+[![Batleforc's github stats](https://github-readme-stats.vercel.app/api?username=Batleforc&theme=blue-green)](https://github.com/Batleforc/github-readme-stats)
 
 <!--
 **batleforc/batleforc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
